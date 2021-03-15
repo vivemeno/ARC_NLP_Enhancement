@@ -1,5 +1,5 @@
-# arc-cse-576
-Repository for CSE 576 course project
+# arc-enhancement
+Repository for ARC dataset solver
 
 1. Install the required packages as in requirements.txt
 2. Run the installer.sh to download the required files.
